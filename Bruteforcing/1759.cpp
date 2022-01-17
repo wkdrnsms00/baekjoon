@@ -11,7 +11,6 @@ char key[15];
 
 void dfs(int start, string str, int vowel, int consonant) {
 
-	//����Լ��� ��������
 	if (str.size() == L) {
 
 		if (vowel >= 1 && consonant >= 2) {
