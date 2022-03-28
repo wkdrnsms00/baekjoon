@@ -1,6 +1,4 @@
 # 균형잡힌 세상
-from turtle import st
-
 
 while(1):
     N = input()
