@@ -1,5 +1,5 @@
 # 소트인사이드
-
+# 정수-> 리스트(내림차순)
 N = int(input())
 N_list = []
 for i in str(N):
